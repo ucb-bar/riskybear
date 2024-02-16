@@ -4,3 +4,6 @@
 [submodule "mechanical"]
 	path = mechanical
 	url = https://github.com/ucb-bar/riskybear-mechanical.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:ucb-bar/riskybear-firmware.git
