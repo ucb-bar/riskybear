@@ -1,0 +1,6 @@
+[submodule "PCB"]
+	path = PCB
+	url = https://github.com/ucb-bar/riskybear-PCB.git
+[submodule "mechanical"]
+	path = mechanical
+	url = https://github.com/ucb-bar/riskybear-mechanical.git
